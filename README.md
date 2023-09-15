@@ -3,6 +3,8 @@ _resume | Resume Activity for HTTP-5114
 
 # Kyle A. Scott
 
+![My daughter and I](/_readme/portrait.jpg "My Daughter and I.")
+
 ## About
 
 A number of life changes in 2022 have led me to re-engage with my previous coding experience in the search for a second career. Enrolled in the Web Development program to get the practical, formal training I need to find meaningful work in the field.
