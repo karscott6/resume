@@ -29,7 +29,9 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
         </tr>
          <tr>
             <td>LAHAAG.ca</td>
-            <td><a href="http://lahaag.ca" target="_blank">LAHAAG</a></td>
+            <td>
+            [LAHAAG] (http://lahaag.ca)
+            </td>
             <td>WordPress, PHP, HTML, CSS, JS</td>
             <td>Lakeshore Affordable Housing Advocacy and Action Group</td>
         </tr>
@@ -38,31 +40,31 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
 
 ## Education
 
-**2008 - 2010: Humber College**
+**2008 - 2010: Humber College**  
 Honours Diploma in Business Management
 
-**2010 - 2013: York University**
+**2010 - 2013: York University**  
 Bachelor of Arts - Humanities
 
-**2023 - 2024: Humber College**
+**2023 - 2024: Humber College**  
 Web Development
 
 ## Work Experience
 
-March 2023 - August 2023
+March 2023 - August 2023  
 GEM Windows & Doors  
 Social Media and Marketing Coordinator
 
-May 2020 - January 2023
+May 2020 - January 2023  
 Independent Contractor  
-Installer, Drywall & Insulation
-Roof Labourer
+Installer, Drywall & Insulation  
+Roof Labourer  
 
-June 2017 - March 2020
-Canadian Linen & Uniform Service
+June 2017 - March 2020  
+Canadian Linen & Uniform Service  
 Route Delivery Driver  
 
-March 2016 - June 2017
+March 2016 - June 2017  
 9718028 Canada Ltd. o/a Infiniflex Solutions  
 Self-Employed / Founder
 
