@@ -11,34 +11,10 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
 
 ## Projects
 
-<table>
-    <thead>
-        <tr>
-            <td>Title</td>
-            <td>URL</td>
-            <td>Technology</td>
-            <td>Description</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>CBowieMSW.ca</td>
-            <td>
-            [CBowieMSW] (https://CBowieMSW.ca)
-            </td>
-            <td>WordPress, PHP, HTML, CSS, JS</td>
-            <td>Private Practice Therapist in South Etobicoke</td>
-        </tr>
-         <tr>
-            <td>LAHAAG.ca</td>
-            <td>
-            [LAHAAG] (http://lahaag.ca)
-            </td>
-            <td>WordPress, PHP, HTML, CSS, JS</td>
-            <td>Lakeshore Affordable Housing Advocacy and Action Group</td>
-        </tr>
-    </tbody>
-</table>
+| Project | Description | URL | Tech |
+| :---    | :----: | :----: | ---:|
+| CBowieMSW | Private practice therapist in South Etobicoke |  [CBowieMSW.ca] (https://cbowiemsw.ca) | WordPress, JS, HTML, CSS |
+| LAHAAG | Lakeshore Affordable Housing Advocacy and Action Group | [LAHAAG] (http://lahaag.ca) | WordPress, JS, HTML, CSS |
 
 ## Education
 
