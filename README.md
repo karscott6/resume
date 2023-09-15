@@ -1,4 +1,4 @@
-# resume
+## resume
 _resume | Resume Activity for HTTP-5114
 
 # Kyle A. Scott
@@ -13,8 +13,8 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
 
 | Project | Description | URL | Tech |
 | :---    | :----: | :----: | ---:|
-| CBowieMSW | Private practice therapist in South Etobicoke |  [CBowieMSW.ca] (https://cbowiemsw.ca) | WordPress, JS, HTML, CSS |
-| LAHAAG | Lakeshore Affordable Housing Advocacy and Action Group | [LAHAAG] (http://lahaag.ca) | WordPress, JS, HTML, CSS |
+| CBowieMSW | Private practice therapist in South Etobicoke |  [CBowieMSW.ca](https://cbowiemsw.ca) | WordPress, JS, HTML, CSS |
+| LAHAAG | Lakeshore Affordable Housing Advocacy and Action Group | [LAHAAG](http://lahaag.ca) | WordPress, JS, HTML, CSS |
 
 ## Education
 
@@ -48,5 +48,5 @@ Self-Employed / Founder
 
 ## Contact
 
-[GitHub] (https://github.com/karscott6)  
-[StackOverflow] (https://stackoverflow.com/users/22524549/karscott6)
+[GitHub](https://github.com/karscott6)  
+[StackOverflow](https://stackoverflow.com/users/22524549/karscott6)
