@@ -3,7 +3,7 @@ _resume | Resume Activity for HTTP-5114
 
 # Kyle A. Scott
 
-<img src="_readme/portrait.png" height="50%">
+<img src="_readme/portrait.jpg" height="50%">
 
 ## About
 
