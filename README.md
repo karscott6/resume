@@ -21,7 +21,7 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
     <tbody>
         <tr>
             <td>CBowieMSW.ca</td>
-            <td>[CBowieMSW] (cbowiemsw.ca)</td>
+            <td><a href="https://cbowiemsw.ca" target="_blank">CBowieMSW</a></td>
             <td>WordPress, PHP, HTML, CSS, JS</td>
             <td>Private Practice Therapist in South Etobicoke</td>
     </tbody>
