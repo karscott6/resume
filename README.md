@@ -9,28 +9,52 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
 
 ## Projects
 
+<table>
+    <thead>
+        <tr>
+            <td>Title</td>
+            <td>URL</td>
+            <td>Technology</td>
+            <td>Description</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>CBowieMSW.ca</td>
+            <td>[CBowieMSW] (cbowiemsw.ca)</td>
+            <td>WordPress, PHP, HTML, CSS, JS</td>
+            <td>Private Practice Therapist in South Etobicoke</td>
+    </tbody>
+</table>
 
 ## Education
 
-2008 - 2010: Humber College - Honours Diploma in Business Management
+**2008 - 2010: Humber College**
+Honours Diploma in Business Management
 
-2010 - 2013: York University - Bachelor of Arts - Humanities
+**2010 - 2013: York University**
+Bachelor of Arts - Humanities
 
-2023 - 2024: Humber College - Web Development
+**2023 - 2024: Humber College**
+Web Development
 
 ## Work Experience
 
-March 2023 - August 2023: GEM Windows & Doors  
+March 2023 - August 2023
+GEM Windows & Doors  
 Social Media and Marketing Coordinator
 
-May 2020 - January 2023: Independent Contractor  
+May 2020 - January 2023
+Independent Contractor  
 Installer, Drywall & Insulation
 Roof Labourer
 
-June 2017 - March 2020: Route Delivery Driver  
+June 2017 - March 2020
 Canadian Linen & Uniform Service
+Route Delivery Driver  
 
-March 2016 - June 2017: 9718028 Canada Ltd. o/a Infiniflex Solutions  
+March 2016 - June 2017
+9718028 Canada Ltd. o/a Infiniflex Solutions  
 Self-Employed / Founder
 
 ## Contact
