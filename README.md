@@ -21,9 +21,18 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
     <tbody>
         <tr>
             <td>CBowieMSW.ca</td>
-            <td><a href="https://cbowiemsw.ca" target="_blank">CBowieMSW</a></td>
+            <td>
+            [CBowieMSW] (https://CBowieMSW.ca)
+            </td>
             <td>WordPress, PHP, HTML, CSS, JS</td>
             <td>Private Practice Therapist in South Etobicoke</td>
+        </tr>
+         <tr>
+            <td>LAHAAG.ca</td>
+            <td><a href="http://lahaag.ca" target="_blank">LAHAAG</a></td>
+            <td>WordPress, PHP, HTML, CSS, JS</td>
+            <td>Lakeshore Affordable Housing Advocacy and Action Group</td>
+        </tr>
     </tbody>
 </table>
 
