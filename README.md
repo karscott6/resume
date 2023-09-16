@@ -29,20 +29,20 @@ Web Development
 
 ## Work Experience
 
-March 2023 - August 2023  
+- March 2023 - August 2023  
 GEM Windows & Doors  
 Social Media and Marketing Coordinator
 
-May 2020 - January 2023  
+- May 2020 - January 2023  
 Independent Contractor  
 Installer, Drywall & Insulation  
 Roof Labourer  
 
-June 2017 - March 2020  
+- June 2017 - March 2020  
 Canadian Linen & Uniform Service  
 Route Delivery Driver  
 
-March 2016 - June 2017  
+- March 2016 - June 2017  
 9718028 Canada Ltd. o/a Infiniflex Solutions  
 Self-Employed / Founder
 
