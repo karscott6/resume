@@ -1,6 +1,3 @@
-## resume
-_resume | Resume Activity for HTTP-5114
-
 # Kyle A. Scott
 
 ![My daughter and I](_readme/portrait2.jpg)
