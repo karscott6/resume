@@ -18,13 +18,13 @@ A number of life changes in 2022 have led me to re-engage with my previous codin
 
 ## Education
 
-**2008 - 2010: Humber College**  
+- **2008 - 2010: Humber College**  
 Honours Diploma in Business Management
 
-**2010 - 2013: York University**  
+- **2010 - 2013: York University**  
 Bachelor of Arts - Humanities
 
-**2023 - 2024: Humber College**  
+- **2023 - 2024: Humber College**  
 Web Development
 
 ## Work Experience
@@ -48,5 +48,5 @@ Self-Employed / Founder
 
 ## Contact
 
-[GitHub](https://github.com/karscott6)  
-[StackOverflow](https://stackoverflow.com/users/22524549/karscott6)
+- [GitHub](https://github.com/karscott6)  
+- [StackOverflow](https://stackoverflow.com/users/22524549/karscott6)
